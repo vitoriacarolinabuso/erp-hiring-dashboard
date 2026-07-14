@@ -1,5 +1,19 @@
 {
   "semana": "14 de julho de 2026",
-  "lastUpdated": "2026-07-14T09:00:00.000Z",
-  "vagas": []
+  "lastUpdated": "2026-07-14T16:12:00.879Z",
+  "vagas": [
+    {
+      "id": "v1784045384981",
+      "numero": "5802",
+      "nome": "STAFF SOFTWARE ENGINEER",
+      "badge": "green",
+      "estagio": "Triagem e entrevistas iniciais",
+      "recrutadora": "Vitória Carolina Buso",
+      "lider": "Wesley Oliveira",
+      "pipeline": "Iniciando agendamentos",
+      "proximoPasso": "Priorização de indicação para entrevista inicial e seguir com entrevistas dos candidatos inscritos.",
+      "risco": null,
+      "status": "ativo"
+    }
+  ]
 }
