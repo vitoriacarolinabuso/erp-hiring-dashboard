@@ -1,6 +1,6 @@
 {
-  "semana": "14 de julho de 2026",
-  "lastUpdated": "2026-07-14T20:32:27.673Z",
+  "semana": "21 de julho de 2026",
+  "lastUpdated": "2026-07-21T12:32:51.352Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -10,8 +10,8 @@
       "estagio": "Triagem e entrevistas iniciais",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Wesley Oliveira",
-      "pipeline": "Iniciando agendamentos",
-      "proximoPasso": "Priorização de indicação para entrevista inicial e seguir com entrevistas dos candidatos inscritos.",
+      "pipeline": "Em entrevista TA",
+      "proximoPasso": "Entrevista técnica com candidato Alef.",
       "risco": null,
       "status": "ativo"
     },
