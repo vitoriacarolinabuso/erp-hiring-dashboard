@@ -1,6 +1,6 @@
 {
   "semana": "21 de julho de 2026",
-  "lastUpdated": "2026-07-21T12:42:03.135Z",
+  "lastUpdated": "2026-07-21T12:45:25.709Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -19,12 +19,12 @@
       "id": "v1784045852900",
       "numero": "5792",
       "nome": "DEVELOPER III",
-      "badge": "green",
+      "badge": "yellow",
       "estagio": "Triagem e entrevistas iniciais",
       "recrutadora": "Ketlin Sales Pereira",
       "lider": "Mateus Martini",
       "pipeline": "Em entrevista TA",
-      "proximoPasso": "Entrevista com TA (Dois aprovados), em etapa de mapeamento comportamental. Avaliando mais perfis para a primeira etapa.",
+      "proximoPasso": "Avaliados pelo gestor: 4 candidatos.\nAvançam para entrevista: 2 perfis que mais se destacaram (agendamentos para amanhã a confirmar).\nEm standby: 2 candidatos.\nNovas entrevistas de TA: 3 agendadas para quarta-feira.",
       "risco": null,
       "status": "ativo"
     },
