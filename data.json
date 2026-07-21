@@ -1,6 +1,6 @@
 {
   "semana": "21 de julho de 2026",
-  "lastUpdated": "2026-07-21T12:45:57.960Z",
+  "lastUpdated": "2026-07-21T13:00:39.220Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -24,7 +24,7 @@
       "recrutadora": "Ketlin Sales Pereira",
       "lider": "Mateus Martini",
       "pipeline": "Em entrevista TA",
-      "proximoPasso": "Avaliados pelo gestor: 4 candidatos.\nAvançam para entrevista: 2 perfis que mais se destacaram (agendamentos para amanhã a confirmar).\n\nEm standby: 2 candidatos.\nNovas entrevistas de TA: 3 agendadas para quarta-feira.",
+      "proximoPasso": "Avançam para entrevista técnica: 2 perfis que mais se destacaram (agendamentos para amanhã a confirmar).\n\nNovas entrevistas com TA: 3 agendadas para quarta-feira.",
       "risco": null,
       "status": "ativo"
     },
