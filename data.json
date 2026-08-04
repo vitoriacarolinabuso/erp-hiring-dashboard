@@ -1,6 +1,6 @@
 {
-  "semana": "28 de julho de 2026",
-  "lastUpdated": "2026-07-28T13:52:00.034Z",
+  "semana": "4 de agosto de 2026",
+  "lastUpdated": "2026-08-04T16:40:58.658Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -23,8 +23,8 @@
       "estagio": "Triagem e entrevistas iniciais",
       "recrutadora": "Ketlin Sales Pereira",
       "lider": "Mateus Martini",
-      "pipeline": "Em entrevista - Liderança",
-      "proximoPasso": "Quatro candidatos avançaram para o bate-papo técnico. \n\n2 candidatos: Bem avaliados.\n\n1 candidato: Em standby (tem um bom perfil, mas outro se destacou mais).\n\n1 candidato: Marcamos o exercício técnico para o dia 28/07. Caso seja aprovado, ele seguirá para a etapa do SankhyerUP.",
+      "pipeline": "Nova Shortlist I Validação para próximos passos",
+      "proximoPasso": "2 avaliados pelo gestor: sendo 1 aprovado/bem avaliado para a proposta (com algumas questões a alinhar com a PP) e 1 em standby.\n\nEm paralelo: temos mais 4 candidatos na etapa de entrevista com TA.",
       "risco": null,
       "status": "ativo"
     },
@@ -38,6 +38,19 @@
       "lider": "Mateus Martini",
       "pipeline": "Offer",
       "proximoPasso": "Finalista aprovado - Marcus Kaefer. Em definição de offer.",
+      "risco": null,
+      "status": "ativo"
+    },
+    {
+      "id": "v1785861268645",
+      "numero": "5821",
+      "nome": "DEVELOPER II",
+      "badge": "green",
+      "estagio": "Entrevista TA",
+      "recrutadora": "Ketlin Sales",
+      "lider": "Mateus Martini",
+      "pipeline": "Entrevista TA",
+      "proximoPasso": "4 candidatos em etapa de entrevista com TA.",
       "risco": null,
       "status": "ativo"
     }
