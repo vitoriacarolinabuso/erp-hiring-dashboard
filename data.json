@@ -1,6 +1,6 @@
 {
   "semana": "4 de agosto de 2026",
-  "lastUpdated": "2026-08-04T20:38:26.418Z",
+  "lastUpdated": "2026-08-04T20:57:35.682Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -39,7 +39,11 @@
       "pipeline": "Offer",
       "proximoPasso": "Finalista aprovado - Marcus Kaefer. Em definição de offer.",
       "risco": null,
-      "status": "ativo"
+      "status": "fechada",
+      "candidatoAprovado": "Marcus Kaefer",
+      "dataInicio": "17/08/2026",
+      "observacoes": null,
+      "dataFechamento": "04/08/2026"
     },
     {
       "id": "v1785861268645",
