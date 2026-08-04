@@ -1,17 +1,17 @@
 {
   "semana": "4 de agosto de 2026",
-  "lastUpdated": "2026-08-04T20:38:08.134Z",
+  "lastUpdated": "2026-08-04T20:38:26.418Z",
   "vagas": [
     {
       "id": "v1784045384981",
       "numero": "5802",
       "nome": "STAFF SOFTWARE ENGINEER",
       "badge": "yellow",
-      "estagio": "Entrevistas TA",
+      "estagio": "Entrevistas TA | Técnica",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Wesley Oliveira",
       "pipeline": "Em entrevista TA",
-      "proximoPasso": "Entrevistas TA nos próximos dias.\nCandidato Alef passou por entrevista técnica.",
+      "proximoPasso": "Entrevistas TA, candidatos aprovados serão encaminhados para etapa técnica\nCandidato Alef passou por entrevista técnica.",
       "risco": null,
       "status": "ativo"
     },
@@ -33,17 +33,13 @@
       "numero": "5773",
       "nome": "DEVELOPER III (REFORMA)",
       "badge": "yellow",
-      "estagio": "Fechamento",
+      "estagio": "Definição de Offer",
       "recrutadora": "Natália Aguiar",
       "lider": "Mateus Martini",
-      "pipeline": "Vaga fechada",
-      "proximoPasso": null,
+      "pipeline": "Offer",
+      "proximoPasso": "Finalista aprovado - Marcus Kaefer. Em definição de offer.",
       "risco": null,
-      "status": "fechada",
-      "candidatoAprovado": "Marcus Kaefer",
-      "dataInicio": "17/08/26",
-      "observacoes": "Vaga fechada!",
-      "dataFechamento": "04/08/2026"
+      "status": "ativo"
     },
     {
       "id": "v1785861268645",
