@@ -1,6 +1,6 @@
 {
   "semana": "11 de agosto de 2026",
-  "lastUpdated": "2026-08-11T12:59:48.918Z",
+  "lastUpdated": "2026-08-11T17:28:42.078Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -18,13 +18,13 @@
     {
       "id": "v1784045852900",
       "numero": "5792",
-      "nome": "DEVELOPER III",
+      "nome": "SOFTWARE ENGINEER SÊNIOR",
       "badge": "yellow",
       "estagio": "Triagem e entrevistas iniciais",
       "recrutadora": "Ketlin Sales Pereira",
       "lider": "Mateus Martini",
-      "pipeline": "Nova Shortlist I Validação para próximos passos",
-      "proximoPasso": "2 avaliados pelo gestor: sendo 1 aprovado/bem avaliado para a proposta (com algumas questões a alinhar com a PP) e 1 em standby.\n\nEm paralelo: temos mais 4 candidatos na etapa de entrevista com TA.",
+      "pipeline": "Etapa de Sankher UP",
+      "proximoPasso": "Candidato Julio Lazzarim agendado para etapa de SankherUP, finalista.",
       "risco": null,
       "status": "ativo"
     },
@@ -48,13 +48,13 @@
     {
       "id": "v1785861268645",
       "numero": "5821",
-      "nome": "DEVELOPER II",
-      "badge": "green",
+      "nome": "SOFTWARE ENGINEER PLENO",
+      "badge": "yellow",
       "estagio": "Entrevista TA",
       "recrutadora": "Ketlin Sales",
       "lider": "Mateus Martini",
-      "pipeline": "Entrevista TA",
-      "proximoPasso": "4 candidatos em etapa de entrevista com TA.",
+      "pipeline": "Entrevista Técnica I Liderança",
+      "proximoPasso": "2 candidatos (Henrique e Gustavo), agendados para a primeira etapa técnica com a liderança.",
       "risco": null,
       "status": "ativo"
     }
