@@ -1,6 +1,6 @@
 {
   "semana": "18 de agosto de 2026",
-  "lastUpdated": "2026-08-18T17:13:42.327Z",
+  "lastUpdated": "2026-08-18T17:18:55.889Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -10,8 +10,8 @@
       "estagio": "Entrevista Técnica",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Wesley Oliveira",
-      "pipeline": "Em entrevista TA",
-      "proximoPasso": "Candidato Alef passou por entrevista técnica.\nCandidato Caio agendado para entrevista técnica",
+      "pipeline": "Em entrevista Técnica",
+      "proximoPasso": "Candidato Alef passou por entrevista técnica.\nCandidato Caio agendado para entrevista técnica\nTA segue em entrevistas com candidatos",
       "risco": null,
       "status": "ativo"
     },
