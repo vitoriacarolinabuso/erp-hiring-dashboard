@@ -1,6 +1,6 @@
 {
   "semana": "18 de agosto de 2026",
-  "lastUpdated": "2026-08-18T17:22:57.104Z",
+  "lastUpdated": "2026-08-18T17:27:01.780Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -65,6 +65,19 @@
       "dataInicio": "08/09/2026",
       "observacoes": "Candidato em processo de admissão. ;)",
       "dataFechamento": "18/08/2026"
+    },
+    {
+      "id": "v1787073888698",
+      "numero": "5863",
+      "nome": "DEVELOPER II",
+      "badge": "yellow",
+      "estagio": "Entrevistas TA",
+      "recrutadora": "Vitória Carolina Buso",
+      "lider": "Karin",
+      "pipeline": "Em entrevistas Talent",
+      "proximoPasso": "Candidatos aprovados serão enviados para etapa técnica",
+      "risco": null,
+      "status": "ativo"
     }
   ]
 }
