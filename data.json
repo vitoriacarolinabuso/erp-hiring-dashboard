@@ -1,6 +1,6 @@
 {
-  "semana": "11 de agosto de 2026",
-  "lastUpdated": "2026-08-11T17:28:42.078Z",
+  "semana": "18 de agosto de 2026",
+  "lastUpdated": "2026-08-18T17:13:42.327Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -23,10 +23,14 @@
       "estagio": "Triagem e entrevistas iniciais",
       "recrutadora": "Ketlin Sales Pereira",
       "lider": "Mateus Martini",
-      "pipeline": "Etapa de Sankher UP",
-      "proximoPasso": "Candidato Julio Lazzarim agendado para etapa de SankherUP, finalista.",
+      "pipeline": "Admissão",
+      "proximoPasso": "Candidato em etapa de admissão.",
       "risco": null,
-      "status": "ativo"
+      "status": "fechada",
+      "candidatoAprovado": "Julio Cesar Lazzarim",
+      "dataInicio": "08/09/2026",
+      "observacoes": "Candidato em processo de admissão. ;)",
+      "dataFechamento": "18/08/2026"
     },
     {
       "id": "v1784060530648",
@@ -53,10 +57,14 @@
       "estagio": "Entrevista TA",
       "recrutadora": "Ketlin Sales",
       "lider": "Mateus Martini",
-      "pipeline": "Entrevista Técnica I Liderança",
-      "proximoPasso": "2 candidatos (Henrique e Gustavo), agendados para a primeira etapa técnica com a liderança.",
+      "pipeline": "Admissão",
+      "proximoPasso": "Candidato em etapa de admissão.",
       "risco": null,
-      "status": "ativo"
+      "status": "fechada",
+      "candidatoAprovado": "Henrique Gonçalves de Jesus",
+      "dataInicio": "08/09/2026",
+      "observacoes": "Candidato em processo de admissão. ;)",
+      "dataFechamento": "18/08/2026"
     }
   ]
 }
