@@ -1,6 +1,6 @@
 {
-  "semana": "18 de agosto de 2026",
-  "lastUpdated": "2026-08-18T17:27:01.780Z",
+  "semana": "21 de agosto de 2026",
+  "lastUpdated": "2026-08-21T19:11:57.673Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -10,8 +10,8 @@
       "estagio": "Entrevista Técnica",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Wesley Oliveira",
-      "pipeline": "Em entrevista Técnica",
-      "proximoPasso": "Candidato Alef passou por entrevista técnica.\nCandidato Caio agendado para entrevista técnica\nTA segue em entrevistas com candidatos",
+      "pipeline": "Entrevistas TA / Entrevista Técnica",
+      "proximoPasso": "Candidato Alef passou por entrevista técnica. (Standby)\nCandidato Caio reagendado para entrevista técnica em 19/08. Caio declinou do processo em 20/08 por questões pessoais.\nTA segue avaliando novos perfis e em entrevistas para comparativo.",
       "risco": null,
       "status": "ativo"
     },
