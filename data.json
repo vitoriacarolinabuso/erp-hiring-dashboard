@@ -1,6 +1,6 @@
 {
-  "semana": "21 de agosto de 2026",
-  "lastUpdated": "2026-08-21T19:13:21.326Z",
+  "semana": "25 de agosto de 2026",
+  "lastUpdated": "2026-08-25T17:19:21.591Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -10,8 +10,8 @@
       "estagio": "Entrevista Técnica",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Wesley Oliveira",
-      "pipeline": "Entrevistas TA / Entrevista Técnica",
-      "proximoPasso": "Candidato Alef passou por entrevista técnica. (Standby)\nCandidato Caio reagendado para entrevista técnica em 19/08. Caio declinou do processo em 20/08 por questões pessoais.\nTA segue avaliando novos perfis e em entrevistas para comparativo.",
+      "pipeline": "5 entrevistas TA",
+      "proximoPasso": "Candidato Alef passou por entrevista técnica. (Standby)\nCandidato Caio reagendado para entrevista técnica em 19/08. Caio declinou do processo em 20/08 por questões pessoais.\nTA segue avaliando novos perfis e em entrevistas para comparativo.\n- 5 candidatos em entrevista com talent",
       "risco": null,
       "status": "ativo"
     },
@@ -74,8 +74,8 @@
       "estagio": "Entrevistas TA",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Karin Alves",
-      "pipeline": "Em entrevistas Talent",
-      "proximoPasso": "Candidatos aprovados serão enviados para etapa técnica",
+      "pipeline": "2 entrevistas técnicas / 4 entrevistas TA",
+      "proximoPasso": "2 candidatos aprovados em etapa TA e em agendamento para entrevista técnica\nSeguindo com 4 candidatos em entrevistas TA",
       "risco": null,
       "status": "ativo"
     }
