@@ -1,6 +1,6 @@
 {
-  "semana": "26 de agosto de 2026",
-  "lastUpdated": "2026-08-26T17:57:59.892Z",
+  "semana": "27 de agosto de 2026",
+  "lastUpdated": "2026-08-27T17:18:47.581Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -71,11 +71,11 @@
       "numero": "5863",
       "nome": "SOFTWARE ENGINEER II",
       "badge": "yellow",
-      "estagio": "Entrevistas TA",
+      "estagio": "Entrevistas TA / Entrevistas Técnicas",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Karin Alves",
       "pipeline": "2 entrevistas técnicas / 4 entrevistas TA",
-      "proximoPasso": "2 candidatos aprovados em etapa TA e em agendamento para entrevista técnica\nSeguindo com 4 candidatos em entrevistas TA",
+      "proximoPasso": "2 candidatos aprovados em etapa TA e em agendamento para entrevista técnica\nSeguindo com 4 candidatos em entrevistas TA\n2 candidatos em etapa técnica",
       "risco": null,
       "status": "ativo"
     }
