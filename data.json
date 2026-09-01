@@ -1,6 +1,6 @@
 {
-  "semana": "27 de agosto de 2026",
-  "lastUpdated": "2026-08-27T17:18:47.581Z",
+  "semana": "1 de setembro de 2026",
+  "lastUpdated": "2026-09-01T19:29:30.182Z",
   "vagas": [
     {
       "id": "v1784045384981",
@@ -74,8 +74,8 @@
       "estagio": "Entrevistas TA / Entrevistas Técnicas",
       "recrutadora": "Vitória Carolina Buso",
       "lider": "Karin Alves",
-      "pipeline": "2 entrevistas técnicas / 4 entrevistas TA",
-      "proximoPasso": "2 candidatos aprovados em etapa TA e em agendamento para entrevista técnica\nSeguindo com 4 candidatos em entrevistas TA\n2 candidatos em etapa técnica",
+      "pipeline": "3 entrevistas técnicas / 4 entrevistas TA",
+      "proximoPasso": "2 candidatos aprovados em etapa TA e em agendamento para entrevista técnica\nSeguindo com 4 candidatos em entrevistas TA\n3 candidatos em etapa técnica",
       "risco": null,
       "status": "ativo"
     }
